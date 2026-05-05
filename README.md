@@ -4,15 +4,8 @@
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=3&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-**Engineer 🚀 | Content Creator 💻 | Tech Enthusiast 💡**
+**AI Engineer 🚀 | MLBB 💻 | Tech Enthusiast 💡**
 
 <br/>
 
